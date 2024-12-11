@@ -1,1 +1,1 @@
-# LectureSense
+# Minor-Project
